@@ -1,3 +1,6 @@
+#Custom ignores
+CNetwork/
+
 # Prerequisites
 *.d
 
